@@ -1,1 +1,2 @@
-# Great-Uni-Hack-2018
+# GreatUniHack18
+Repo for GreatUniHack Manchester 2018
